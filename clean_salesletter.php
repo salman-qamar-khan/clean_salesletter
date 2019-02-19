@@ -11,7 +11,7 @@
  * Plugin Name: Clean Salesletter
  * Description: Handles the view of pages
  * Version: 1.0.0
- * Author URI: https://james.com/
+ * Author URI: https://www.salmanqamar.com/
  * Text Domain: clean_salesletter
  * License: Proprietary
  * Domain Path: /languages
@@ -20,7 +20,7 @@
  * -----------------------------------------
  * Do not delete this line
  * Added for security reasons: http://codex.wordpress.org/Theme_Development#Template_Files
- * -----------------------------------------
+ *
  */
 
 //defined('ABSPATH') or die("Direct access to the script does not allowed");
