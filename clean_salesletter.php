@@ -1,5 +1,4 @@
 <?php
-
 /**
  * @package   CSL
  * @author    CSL_Author
