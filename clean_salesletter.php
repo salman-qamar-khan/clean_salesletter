@@ -17,7 +17,6 @@
  * Domain Path: /languages
  */
 /**
-
 //defined('ABSPATH') or die("Direct access to the script does not allowed");
 /* ----------------------------------------- */
 error_reporting(1);
