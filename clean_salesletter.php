@@ -17,11 +17,7 @@
  * Domain Path: /languages
  */
 /**
- * -----------------------------------------
- * Do not delete this line
- * Added for security reasons: http://codex.wordpress.org/Theme_Development#Template_Files
- *
- */
+
 
 //defined('ABSPATH') or die("Direct access to the script does not allowed");
 /* ----------------------------------------- */
