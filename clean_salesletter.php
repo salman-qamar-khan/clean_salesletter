@@ -12,7 +12,7 @@
  * Version: 1.0.0
  * Author URI: https://www.salmanqamar.com/
  * Text Domain: clean_salesletter
- * License: Proprietary 
+ * License: Proprietary    
  * Domain Path: /languages
  */
 /**
