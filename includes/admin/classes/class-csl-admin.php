@@ -17,7 +17,6 @@
  */
 defined('ABSPATH') or die("Direct access to the script does not allowed");
 /* ----------------------------------------- */
-
 class Clean_Salesletter {
 
     /**
