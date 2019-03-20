@@ -90,7 +90,6 @@ class Clean_Salesletter {
     public function get_plugin_version() {
         return self::$VERSION;
     }
-
     /**
      * Return an instance of this class.
      *
