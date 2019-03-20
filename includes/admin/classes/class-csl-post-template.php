@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Clean Salesletter.
  *
