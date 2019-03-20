@@ -128,5 +128,4 @@ class Clean_Salesletter {
         // @TODO: Define deactivation functionality here
         delete_option(self::$VERSION_NAME);
     }
-
 }
